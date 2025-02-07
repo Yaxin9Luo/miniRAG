@@ -1,0 +1,1471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SUN&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The Sun is a large celestial body that is classified as an organization, primarily responsible for providing energy and light to the solar system."&lt;SEP&gt;"The Sun is the primary source of energy for life on Earth."&lt;SEP&gt;"The sun is the primary source of energy and influence on the state of matter of water, as it drives weather patterns and energy transfer processes."</data>
+      <data key="d2">chunk-e5a16879c2227c24607947f81907f26c&lt;SEP&gt;chunk-a3a6f61f6ca2373e4e19bd9352a463dc&lt;SEP&gt;chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </node>
+    <node id="&quot;WIND&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Wind is another significant factor that can influence the state of matter of water, affecting weather patterns and ocean currents."</data>
+      <data key="d2">chunk-a3a6f61f6ca2373e4e19bd9352a463dc</data>
+    </node>
+    <node id="&quot;OCEAN CURRENTS&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Ocean currents are large-scale movements of water in the oceans, affecting climate and weather patterns."&lt;SEP&gt;"Ocean currents are the movement of water from one place to another, which can affect the distribution of heat and the state of matter of water in coastal areas."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-a3a6f61f6ca2373e4e19bd9352a463dc</data>
+    </node>
+    <node id="&quot;METAL CORE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The metal core is a part of the Earth and is the source of its magnetic field, which in turn affects the state of matter of water through geomagnetic effects."</data>
+      <data key="d2">chunk-a3a6f61f6ca2373e4e19bd9352a463dc</data>
+    </node>
+    <node id="&quot;QUESTION 53&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 53 refers to an experiment where a scientist checks the oxygen levels in a sealed container over time, indicating a process or event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 54&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 54 refers to an observation about the chemical properties of calcium, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 55&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 55 refers to an observation about the narrowness of growth rings, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 57&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 57 refers to an observation about the cause of planetary years, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 58&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 58 refers to an observation about the improvement of air quality, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 59&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 59 refers to an observation about the life cycle of an insect, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 60&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 60 refers to an observation about the storage of hereditary material, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 61&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 61 refers to an observation about the speed of running, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 62&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 62 refers to an observation about the survival of Siberian tigers, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 63&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 63 refers to an observation about liquid water, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 64&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 64 refers to an observation about the causes of acid rain, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 65&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 65 refers to an observation about the moisture in the air, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 66&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 66 refers to an observation about the brightness of stars, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;QUESTION 67&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 67 refers to an observation about the adaptations in intertidal ecosystems, indicating an event."</data>
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </node>
+    <node id="&quot;CORRECT ANSWER&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Correct Answer is a place where the question is answered definitively."&lt;SEP&gt;"The correct answer is a person who provides information or guidance."&lt;SEP&gt;"The correct answer to the question is the one that best explains the given fact or situation."</data>
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c&lt;SEP&gt;chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </node>
+    <node id="&quot;EARTH&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Earth is the location from which the pull of gravity is felt, making it the source of the gravitational force."&lt;SEP&gt;"Earth is the planet from which the text is derived, the context of the activity described."&lt;SEP&gt;"Earth is the third planet from the Sun and is the third-largest planet in the Solar System. It is considered a critical component of the solar system and is home to all known life forms."&lt;SEP&gt;"Earth receives energy from the Sun and influences the planet's climate and water cycles."</data>
+      <data key="d2">chunk-e5a16879c2227c24607947f81907f26c&lt;SEP&gt;chunk-b21a699d61e7602d450d11d8c30151b0&lt;SEP&gt;chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </node>
+    <node id="&quot;RIBOSOME&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"Ribosomes are cellular structures where proteins are synthesized."</data>
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </node>
+    <node id="&quot;CELL WALL&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"Cell walls provide structural support and protection to plant cells."</data>
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </node>
+    <node id="&quot;NUCLEUS&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"The nucleus contains the genetic material of an organism and is crucial for cell function."</data>
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </node>
+    <node id="&quot;WHALES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Whales are a type of animal that uses vocalization for navigation and communication."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e</data>
+    </node>
+    <node id="&quot;NOISE POLLUTION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Noise pollution affects whale populations, which is an issue for organizations like environmental groups and conservation efforts."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e</data>
+    </node>
+    <node id="&quot;EGG&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"An egg is a reproductive cell in organisms, determining the type of offspring that will develop."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e</data>
+    </node>
+    <node id="&quot;TOAD&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"Toads are a type of amphibian that develop from eggs,不同于 the snake and lizard, which hatch from eggs."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e</data>
+    </node>
+    <node id="&quot;SCIENTISTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Experiment is being conducted by scientists to determine the air quality inside a building."&lt;SEP&gt;"Scientists are a group within an organization that conducts research on various topics, including the impact of noise pollution on whale populations."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e&lt;SEP&gt;chunk-9b00b27370d8767c10bcb82c24a5de42</data>
+    </node>
+    <node id="&quot;GENETIC MATERIAL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Genetic material refers to the biological information that is passed from parents to offspring, a concept studied by scientists."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e</data>
+    </node>
+    <node id="&quot;ENERGY THROUGH WHALE HABITATS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Energy passing through whale habitats is a concept that scientists study to understand the effects of noise pollution."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e</data>
+    </node>
+    <node id="&quot;FOOD ORGANISMS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Food organisms are a concept in ecology that scientists study to determine the impact of noise pollution on the ecosystem."</data>
+      <data key="d2">chunk-794a18b5d8b40406e81b1236dc83162e</data>
+    </node>
+    <node id="&quot;MASS&quot;">
+      <data key="d0">"PHYSICAL PROPERTY"</data>
+      <data key="d1">"Mass is a fundamental physical property of Earth, determining its gravitational pull."&lt;SEP&gt;"The mass of the student is being measured by the scale."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0&lt;SEP&gt;chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;QUESTION 283&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The question refers to the force of gravity, which is a concept related to the mass of Earth."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 284&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The question describes a chemical reaction, which is a concept involving the interaction of substances."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 285&quot;">
+      <data key="d0">"PHYSICAL PROPERTY"</data>
+      <data key="d1">"The question is about the properties of elements, which is a physical property of the elements themselves."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 286&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The question refers to an astronomical event, specifically the visibility of the Moon."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 287&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The question describes the theory of natural selection, which is a concept in biology."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 288&quot;">
+      <data key="d0">"PHYSICAL PROPERTY"</data>
+      <data key="d1">"The question is about the properties of carbon, which is a physical property of the element carbon."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 289&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The question refers to a natural event, the gathering of crops, which affects the owl's food supply."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 290&quot;">
+      <data key="d0">"PHYSICAL PROPERTY"</data>
+      <data key="d1">"The question is about the properties of a material, specifically copper."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 291&quot;">
+      <data key="d0">"ACTION"</data>
+      <data key="d1">"The question is about the actions a scientist should take in response to an investigation."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 292&quot;">
+      <data key="d0">"ASTRONOMICAL BODY"</data>
+      <data key="d1">"The question refers to the largest body in our solar system, which is Jupiter."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 293&quot;">
+      <data key="d0">"QUANTITY"</data>
+      <data key="d1">"The question is about the number of eggs needed for reliable results in an investigation."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 294&quot;">
+      <data key="d0">"PHYSICAL CHANGE"</data>
+      <data key="d1">"The question is about the use of mechanical energy, which is a physical change."</data>
+      <data key="d2">chunk-b21a699d61e7602d450d11d8c30151b0</data>
+    </node>
+    <node id="&quot;QUESTION 346&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 346 is a quiz question asking for the nature of young robins building nests, which is an example of a learned behavior."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 347&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 347 is a quiz question asking for a property of water that allows it to transport materials through the Earth system, which is the ability to dissolve many substances."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 348&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 348 is a quiz question asking for a property of Earth's latitude that allows for the same weather patterns, which is the same wind patterns."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 349&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 349 is a quiz question asking for a description of liquid water as a state of matter that has less kinetic energy than the solid state, which is less kinetic energy than the solid state."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 350&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 350 is a quiz question asking for a hypothesis that can be easily tested, which is the Moon causes high tides."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 351&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 351 is a quiz question asking for an element that makes up most of the air we breathe, which is nitrogen."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 352&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 352 is a quiz question asking for the most appropriate format for displaying the results of comparing the total temperature change for different soil colors, which is a bar graph."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 353&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 353 is a quiz question asking for the best way to display the percentage of energy obtained from food sources for a population of eagles, which is a pie chart."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 354&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 354 is a quiz question asking how water changes from a liquid to a solid, which is by decreasing the temperature."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 357&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 357 is a quiz question asking which most likely has the GREATEST mass, which is a horse."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 358&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 358 is a quiz question asking which is influenced the most by this force, which is the gravitational force of the Sun affecting the planets."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 359&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 359 is a quiz question asking what remains constant as the engine operates, which is the total amount of energy."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 360&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 360 is a quiz question asking for the electrical resistance of the navigation unit, which is 22 ohms."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 361&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 361 is a quiz question asking which is NOT a fossil fuel, which is natural gas."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 362&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 362 is a quiz question asking what causes the movement of an air mass in a valley, which is warming by solar energy re-radiated from the ground."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 363&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 363 is a quiz question asking which event most changes an ecosystem in a single day, which is wildfire."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 364&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 364 is a quiz question asking what always ___ in hurricanes and tornadoes, which is cause flooding."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;QUESTION 365&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Question 365 is a quiz question asking what describes a mineral, which is a natural substance that makes up rocks."</data>
+      <data key="d2">chunk-ca2a681293afbe0ff041b8039e20c56b</data>
+    </node>
+    <node id="&quot;ALEX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex is a character in the narrative, involved in decision-making and potentially in first contact with an unknown intelligence."&lt;SEP&gt;"Alex is a character who experiences frustration and is observant of the dynamics among other characters."&lt;SEP&gt;"Alex is the leader of a team attempting first contact with the unknown intelligence."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-68989c75843b1b31c00de506bfa2c0e3&lt;SEP&gt;chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;TAYLOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Taylor is portrayed with authoritarian certainty and shows a moment of reverence towards a device, indicating a change in perspective."</data>
+      <data key="d2">chunk-68989c75843b1b31c00de506bfa2c0e3&lt;SEP&gt;chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;JORDAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jordan shares a commitment to discovery and has a significant interaction with Taylor regarding a device."</data>
+      <data key="d2">chunk-68989c75843b1b31c00de506bfa2c0e3&lt;SEP&gt;chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;CRUZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cruz is associated with a vision of control and order, influencing the dynamics among other characters."</data>
+      <data key="d2">chunk-68989c75843b1b31c00de506bfa2c0e3&lt;SEP&gt;chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;THE DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Device is central to the story, with potential game-changing implications and is revered by Taylor."&lt;SEP&gt;"The Device is central to the story, with potential game-changing implications, and is revered by Taylor."</data>
+      <data key="d2">chunk-68989c75843b1b31c00de506bfa2c0e3&lt;SEP&gt;chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;MOON'S GRAVITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The tidal pull of the Moon's gravity is a concept mentioned in the text."</data>
+      <data key="d2">chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;EVAPORATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Evaporation of water from soil in the valley is a concept mentioned in the text."</data>
+      <data key="d2">chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;SOLAR ENERGY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Solar energy re-radiated from the ground is a concept mentioned in the text."</data>
+      <data key="d2">chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;ICE CRYSTALS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Cooling effect of ice crystals in the air over the mountain is a concept mentioned in the text."</data>
+      <data key="d2">chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;X-RAYS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"X-rays are mentioned as used in medical technology."</data>
+      <data key="d2">chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;INFRARED WAVES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Infrared waves are mentioned as used in medical technology."</data>
+      <data key="d2">chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;MICROWAVES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Microwaves are mentioned as used in medical technology."</data>
+      <data key="d2">chunk-961a5442613e1dcbc62e369df1b58d9f</data>
+    </node>
+    <node id="&quot;GASOLINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The gasoline is an energy source used by organizations for various purposes, such as converting it into mechanical energy for vehicles."</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;METAMORPHOSIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The correct order of the metamorphosis of a butterfly is an event that describes the transformation from an egg to a butterfly, larva, pupa, and then to an adult."</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 385&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The correct order of the metamorphosis of a butterfly is an event that describes the transformation from an egg to a butterfly, larva, pupa, and then to an adult."</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 386&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Decomposers are important to the flow of energy in an ecosystem because they break organic material into parts that can be reused."</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 387&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"When the South Pole is tilted toward the Sun, what season will it be in Florida?"</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 388&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The kinetic energies of particles in a sample of matter are increasing. This sample is most likely a liquid that is warming."</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 389&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Which are produced during photosynthesis? "</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 390&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A student has a pink eraser on her desk. Which property shows that the eraser is a solid?"</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 391&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Street maps are examples of two dimensional models. Which information cannot be determined using a basic map?"</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 392&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Which marine ecosystem is independent of sunlight?"</data>
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </node>
+    <node id="&quot;QUESTION 403&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 403 refers to a scientist or researcher who is studying the effects of solar energy on Earth's atmosphere."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 404&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 404 refers to a scientist or researcher who is studying the properties of soil."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 405&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 405 refers to a scientist or researcher who is studying the properties of Earth's layers."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 406&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 406 refers to a scientist or researcher who is studying cooking pans and their materials."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 407&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 407 refers to a scientist or researcher who is studying the structure of magnesium hydroxide."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 408&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 408 refers to a scientist or researcher who is studying the differences between mitosis and meiosis."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 409&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 409 refers to a scientist or researcher who is studying the effects of fertilizer on crop health."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 410&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 410 refers to a scientist or researcher who is studying data presentation."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 411&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 411 refers to a scientist or researcher who is studying sheep evolution on Hirta."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 412&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 412 refers to a scientist or researcher who is studying human sperm cells."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 413&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 413 refers to a scientist or researcher who is studying animal color changes."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 414&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 414 refers to a scientist("entity"</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 416&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 416 refers to a scientist or researcher who is studying the direction of running on a circular track."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 417&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 417 refers to a scientist or researcher who is studying the effect of temperature on water and an egg."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 418&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 418 refers to a scientist or researcher who is studying flower color inheritance in a plant."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;QUESTION 419&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Question 419 refers to a scientist or researcher who is studying celestial objects."</data>
+      <data key="d2">chunk-49e21c3b16ad27238f226482033d28aa</data>
+    </node>
+    <node id="&quot;100% PINK&quot;">
+      <data key="d0">"COLOR", "THE OFFSPRING OF A CROSS BETWEEN A WHITE FLOWERED PLANT AND A RR PLANT WILL BE 100% PINK."</data>
+      <data key="d1">"genetics, flower color inheritance"</data>
+      <data key="d2">chunk-519ca7f0cd802af712fdbb7e5b96688b</data>
+    </node>
+    <node id="&quot;SAM RIVERA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."&lt;SEP&gt;"Sam Rivera is a member of the team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-68989c75843b1b31c00de506bfa2c0e3</data>
+    </node>
+    <node id="&quot;CONTROL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Control may be an illusion when facing an intelligence that literally writes its own rules."&lt;SEP&gt;"Control refers to the ability to manage or govern, which is challenged by an intelligence that writes its own rules."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-68989c75843b1b31c00de506bfa2c0e3</data>
+    </node>
+    <node id="&quot;INTELLIGENCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Intelligence here refers to an unknown entity capable of writing its own rules and learning to communicate."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-68989c75843b1b31c00de506bfa2c0e3</data>
+    </node>
+    <node id="&quot;FIRST CONTACT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"First Contact is the potential initial communication between humanity and an unknown intelligence."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b&lt;SEP&gt;chunk-68989c75843b1b31c00de506bfa2c0e3</data>
+    </node>
+    <node id="&quot;HUMANITY'S RESPONSE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Humanity's Response is the collective action taken by Alex's team that might be the result of first contact with the unknown intelligence."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;SUNLIGHT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Sunlight is the source of energy that affects the planet Earth."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;EARTH'S ROTATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Earth's rotation is a key factor in the tilt of its axis, influencing seasons."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;TILTED AXIS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The tilt of Earth's axis is responsible for the changing seasons and the positioning of different hemispheres relative to the Sun."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;EARTH'S SURFACE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The Earth's surface is the three-dimensional area where all geological and biological activities occur."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;SURFACE FEATURES&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The features of the Earth's surface, such as mountains and oceans, are significant in the context of the text."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;CLIMATE CHANGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Climate change refers to long-term changes in weather patterns and global average temperatures."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;GREENHOUSE EFFECT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The greenhouse effect is a natural process that warms the Earth's surface."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;GLOBAL WARMING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Global warming is a term that refers to the long-term increase in Earth's average surface temperature."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;ATMOSPHERIC COMPOSITION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Atmospheric composition refers to the gases and particles in the Earth's atmosphere, which play a role in weather and climate."</data>
+      <data key="d2">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </node>
+    <node id="&quot;STEEL CANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Steel cans are manufactured by an organization that processes metals."</data>
+      <data key="d2">chunk-8182fc2d36e68375b37d2ab5dc7bc2e6</data>
+    </node>
+    <node id="&quot;BOOK&quot;">
+      <data key="d0">"ARTIFACT"</data>
+      <data key="d1">"A book is an artifact that can be read and sometimes washed in a sink."</data>
+      <data key="d2">chunk-8182fc2d36e68375b37d2ab5dc7bc2e6</data>
+    </node>
+    <node id="&quot;SINK&quot;">
+      <data key="d0">"ARTIFACT"</data>
+      <data key="d1">"A sink is an artifact designed for washing."</data>
+      <data key="d2">chunk-8182fc2d36e68375b37d2ab5dc7bc2e6</data>
+    </node>
+    <node id="&quot;WOOD&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Wood is a material being measured by the scale."&lt;SEP&gt;"Wood is a material source, located in a specific place."</data>
+      <data key="d2">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6&lt;SEP&gt;chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;ENERGY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Energy is a fundamental concept in physics, representing the capacity to do work."&lt;SEP&gt;"entity"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f&lt;SEP&gt;chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </node>
+    <node id="&quot;PHYSICAL CHANGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Physical change refers to a change in the form or substance of matter."</data>
+      <data key="d2">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </node>
+    <node id="&quot;CARBON DIOXIDE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Carbon dioxide is a greenhouse gas that plays a significant role in Earth's climate system."</data>
+      <data key="d2">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </node>
+    <node id="&quot;CLIMATE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Climate refers to the long-term weather patterns of a region or the Earth as a whole."</data>
+      <data key="d2">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </node>
+    <node id="&quot;HYDROSPHERE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The hydrosphere includes all bodies of water on Earth, such as oceans, lakes, and rivers."</data>
+      <data key="d2">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </node>
+    <node id="&quot;ROLLER COASTER CAR&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The direction that the roller coaster car is traveling is a spatial aspect that can be observed and measured, indicating its position and movement within a defined area."</data>
+      <data key="d2">chunk-78fac759f882e8abc7dd1a45beaab9d2</data>
+    </node>
+    <node id="&quot;TEXT&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The text itself is a written document, which can be analyzed and understood in a specific location, such as a library or an office."&lt;SEP&gt;"description"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f&lt;SEP&gt;chunk-78fac759f882e8abc7dd1a45beaab9d2</data>
+    </node>
+    <node id="&quot;2H_{2}O&quot;">
+      <data key="d0">"COMPOUND"</data>
+      <data key="d1">"2H_{2}O is a compound made up of two hydrogen atoms and one oxygen atom."</data>
+      <data key="d2">chunk-7c3a8ccad7af77337126b70eadaf0234</data>
+    </node>
+    <node id="&quot;2H_{2}&quot;">
+      <data key="d0">"COMPOUND"</data>
+      <data key="d1">"2H_{2} is a compound made up of two hydrogen atoms."</data>
+      <data key="d2">chunk-7c3a8ccad7af77337126b70eadaf0234</data>
+    </node>
+    <node id="&quot;O_{2}&quot;">
+      <data key="d0">"COMPOUND"</data>
+      <data key="d1">"O_{2} is a compound made up of one oxygen atom."</data>
+      <data key="d2">chunk-7c3a8ccad7af77337126b70eadaf0234</data>
+    </node>
+    <node id="&quot;BALL&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"The ball is the subject of the question, representing the object being analyzed."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;TIME&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"Time is the duration of the event described, specifically the period of the forward swing of the ball."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;ACCELERATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Acceleration is a concept that describes how the velocity of an object changes over time."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;QUESTION 648&quot;">
+      <data key="d0">"QUESTION"</data>
+      <data key="d1">"The question is a prompt for the answer to a specific inquiry."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;MR. JENKINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Jenkins is the name of the individual constructing the circuit."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;CIRCUIT&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"A circuit is the system being constructed by Mr. Jenkins."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;VARIABLE SOURCE&quot;">
+      <data key="d0">"SOURCE"</data>
+      <data key="d1">"The variable source is the energy provider for the circuit."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;WIRES&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"Wires are the components used to connect the source to the resistor in the circuit."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;RESISTOR&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"A resistor is part of the circuit that limits the flow of current."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;TOWARD&quot;">
+      <data key="d0">"DIRECTION"</data>
+      <data key="d1">"The direction of increasing voltage is towards the resistor in the circuit."</data>
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </node>
+    <node id="&quot;ISLAND&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The location where sheep are observed, with dark and light wool sheep populations."</data>
+      <data key="d2">chunk-a7b122ae6b650ea3a928970a97e21406</data>
+    </node>
+    <node id="&quot;NEW PLANT&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"A new plant is an example of an organism that grows and reproduces to increase in number over time.")</data>
+      <data key="d2">chunk-a7b122ae6b650ea3a928970a97e21406</data>
+    </node>
+    <node id="&quot;STUDENT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The student conducting the experiment is the one performing the test and collecting data."&lt;SEP&gt;"The student stands on a scale, indicating their mass."&lt;SEP&gt;"students are the subjects of the question regarding the use of tools."</data>
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c&lt;SEP&gt;chunk-ca47ef2f2d598755733b8ef6d265e42d&lt;SEP&gt;chunk-83decea0937e0d43499d64dda5fc1a14</data>
+    </node>
+    <node id="&quot;SCALE&quot;">
+      <data key="d0">"INSTRUMENT"</data>
+      <data key="d1">"The scale measures the force of gravity acting on the student."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;AIR PRESSURE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Air pressure is not being measured by the scale; it's not a physical quantity that the scale can measure directly."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;ELECTROMAGNETIC WAVES&quot;">
+      <data key="d0">"PHYSICAL QUANTITY"</data>
+      <data key="d1">"The electromagnetic waves reaching Earth are being measured by the Doppler effect."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;CERAMIC&quot;">
+      <data key="d0">"MATERIAL"</data>
+      <data key="d1">"Ceramic is one material being measured by the scale."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;GAS&quot;">
+      <data key="d0">"PHYSICAL QUANTITY"</data>
+      <data key="d1">"The gas inside the balloon is a physical quantity being measured by the scale."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;TEMPERATURE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Temperature is a measure of heat, and in this context, it refers to the heat content of a substance or a region."&lt;SEP&gt;"The temperature of the balloon is being measured by the scale."</data>
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884&lt;SEP&gt;chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;712&quot;">
+      <data key="d0">"QUESTION 712"</data>
+      <data key="d1">"Identifying the entity 'force of gravity' on a scale measures mass."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;713&quot;">
+      <data key="d0">"QUESTION 713"</data>
+      <data key="d1">"The electromagnetic waves reaching Earth from a galaxy moving away are expected to experience an increase in frequency due to the Doppler effect."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;714&quot;">
+      <data key="d0">"QUESTION 714"</data>
+      <data key="d1">"The least likely material to get hot when the spoon is placed in boiling water is wood, as it is less dense than iron."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;715&quot;">
+      <data key="d0">"QUESTION 715"</data>
+      <data key="d1">"The balloon gets larger because the temperature of the balloon has increased, not the mass."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;716&quot;">
+      <data key="d0">"QUESTION 716"</data>
+      <data key="d1">"A solution with a pH of 2 can be increased to a pH above 7 by adding a base."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;717&quot;">
+      <data key="d0">"QUESTION 717"</data>
+      <data key="d1">"The process of digestion where food substances are broken down by digestive juices is 'breakdown' or 'digestion'."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;718&quot;">
+      <data key="d0">"QUESTION 718"</data>
+      <data key="d1">"The greatest influence on the strength of a high tide in a particular area is the position of the Moon around Earth."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;719&quot;">
+      <data key="d0">"QUESTION 719"</data>
+      <data key="d1">"Using fossil fuels wisely and avoiding waste is an example of 'conservation'."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;720&quot;">
+      <data key="d0">"QUESTION 720"</data>
+      <data key="d1">"The time display on a battery-operated clock is illuminated when an electric circuit is closed."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;721&quot;">
+      <data key="d0">"QUESTION 721"</data>
+      <data key="d1">"The energy resources uranium and coal have in common is that they both release energy through combustion."</data>
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </node>
+    <node id="&quot;SIDE MIRROR&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The side mirror of a car is a specific location where objects like pebbles can be seen reflected in water."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;USING A FLASHLIGHT&quot;">
+      <data key="d0">"ACTIVITY"</data>
+      <data key="d1">"Using a flashlight to light up a forest path at night is an activity that helps in navigating in darkness and can reveal details in the environment."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;ROSARIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rosaria is the individual who discovered a structure in a pond sample."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;SAMPLE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"A sample is taken from a pond, which is a specific location where the observation takes place."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;ZYGOTES&quot;">
+      <data key="d0">"ENTITY"</data>
+      <data key="d1">"Zygotes are a type of entity produced by protists in the sample, which are a specific type of organism found in the pond."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;AMOBA&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"Amoeba is one type of organism that can produce zygotes, which are a key concept in the question."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;EUGLENA&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"Euglena is another type of organism that can produce zygotes, contributing to the diversity of entities involved in the question."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;PARAMECIUM&quot;">
+      <data key="d0">"ORGANISM"</data>
+      <data key="d1">"Paramecium is a type of organism that can produce zygotes, which are a fundamental concept in the question."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;SUN RISING AND SETTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sun rising and setting is a natural event that marks the beginning and end of daylight hours."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;MOON WAXING AND WANING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Moon waxing and waning is a natural event that describes the phases of the moon."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;MOON REVOLVING AROUND THE SUN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Moon revolving around the sun is a natural event that describes the moon's orbit around the Earth."</data>
+      <data key="d2">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </node>
+    <node id="&quot;EXPERIMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The experiment is the process of testing and collecting data to determine the effects of different types of music on plant growth."</data>
+      <data key="d2">chunk-83decea0937e0d43499d64dda5fc1a14</data>
+    </node>
+    <node id="&quot;MUSIC&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Music is the stimulus used to test the effect on plant growth."</data>
+      <data key="d2">chunk-83decea0937e0d43499d64dda5fc1a14</data>
+    </node>
+    <node id="&quot;MOON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Moon is also an organization, Earth's only natural satellite, which is primarily responsible for reflecting sunlight and influencing tides."</data>
+      <data key="d2">chunk-e5a16879c2227c24607947f81907f26c</data>
+    </node>
+    <node id="&quot;MILLIONS OF HUMAN CELLS SHED EACH DAY&quot;">
+      <data key="d0">"CELL SHEDDING"</data>
+      <data key="d1">"biological process"</data>
+      <data key="d2">chunk-145c9e0115b170924c4fc279414f6728</data>
+    </node>
+    <node id="&quot;CHLORINE&quot;">
+      <data key="d0">"ELEMENT"</data>
+      <data key="d1">"Chlorine is an element, specifically a highly reactive metal, indicated by the correct answer to the periodic table question."</data>
+      <data key="d2">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </node>
+    <node id="&quot;HELIUM&quot;">
+      <data key="d0">"ELEMENT"</data>
+      <data key="d1">"Helium is an element, but not a highly reactive metal; it is a noble gas."</data>
+      <data key="d2">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </node>
+    <node id="&quot;MAGNESIUM&quot;">
+      <data key="d0">"ELEMENT"</data>
+      <data key="d1">"Magnesium is an element, but it is not highly reactive; it is a reactive metal."</data>
+      <data key="d2">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </node>
+    <node id="&quot;SILVER&quot;">
+      <data key="d0">"ELEMENT"</data>
+      <data key="d1">"Silver is an element, but it is not highly reactive; it is a reactive metal."</data>
+      <data key="d2">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </node>
+    <node id="&quot;EQUATOR&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The equator is a critical location on Earth, rotating more quickly on its axis, which affects climate patterns and the intensity of sunlight received by different parts of the planet."&lt;SEP&gt;"The equator is a critical location on Earth, rotating more quickly on its axis, which affects climate patterns and the intensity of sunlight received by different parts of the planet.")&lt;|"Sunlight intensity"</data>
+      <data key="d2">chunk-aabe40c9b5c85808ff5b401dad28a89a</data>
+    </node>
+    <node id="&quot;RAIN FOREST DEFORESTATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Rain forest deforestation is an event that leads to various ecological and environmental changes, including the loss of habitats for organisms."</data>
+      <data key="d2">chunk-aabe40c9b5c85808ff5b401dad28a89a</data>
+    </node>
+    <node id="&quot;OPERATION: DULCE&quot;">
+      <data key="d0">"MISSION"</data>
+      <data key="d1">"Operation: Dulce is described as a mission that has evolved to interact and prepare."</data>
+      <data key="d2">chunk-68989c75843b1b31c00de506bfa2c0e3</data>
+    </node>
+    <node id="&quot;WASHINGTON&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Washington is a location where communications with Washington buzzes in the background."</data>
+      <data key="d2">chunk-68989c75843b1b31c00de506bfa2c0e3</data>
+    </node>
+    <node id="&quot;BUILDING&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The experiment is conducted inside a building, indicating a focus on indoor air quality."</data>
+      <data key="d2">chunk-9b00b27370d8767c10bcb82c24a5de42</data>
+    </node>
+    <node id="&quot;EXPERIMENTERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Experimenters are the organization responsible for the scientific research."</data>
+      <data key="d2">chunk-9b00b27370d8767c10bcb82c24a5de42</data>
+    </node>
+    <node id="&quot;QUESTION&quot;">
+      <data key="d0">"WHICH STATEMENT ABOUT THE SUN IS TRUE?"</data>
+      <data key="d1">"question"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f</data>
+    </node>
+    <node id="&quot;EXAMPLE&quot;">
+      <data key="d0">"BABY DEER'S SPOTS"</data>
+      <data key="d1">"example"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f</data>
+    </node>
+    <node id="&quot;LANDFORM&quot;">
+      <data key="d0">"VOLCANIC MOUNTAINS"</data>
+      <data key="d1">"entity"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f</data>
+    </node>
+    <node id="&quot;FEATURE&quot;">
+      <data key="d0">"THE DEPTH OF THE WATER"</data>
+      <data key="d1">"entity"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f</data>
+    </node>
+    <node id="&quot;MATTER&quot;">
+      <data key="d0">"METALS HAVE LOW SPECIFIC HEAT"</data>
+      <data key="d1">"entity"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f</data>
+    </node>
+    <node id="&quot;INTERACTION&quot;">
+      <data key="d0">"WATER LOSES ITS HEAT ENERGY QUICKLY TO THE AIR"</data>
+      <data key="d1">"entity"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f</data>
+    </node>
+    <node id="&quot;RELATIONSHIP&quot;">
+      <data key="d0">"AS THE DISTANCE FROM EARTH TO THE STAR DECREASES, ITS SIZE INCREASES."</data>
+      <data key="d1">"relationship"</data>
+      <data key="d2">chunk-f9e23c5dc65ec17b2f126939d060c71f</data>
+    </node>
+    <node id="&quot;TOOL&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"Tools are objects used in various activities."</data>
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </node>
+    <node id="&quot;STOPWATCH&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"A stopwatch is an object used for timing activities."</data>
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </node>
+    <node id="&quot;HEAT SOURCE&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"A heat source is an object that provides heat."</data>
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </node>
+    <node id="&quot;SAFETY GOGGLES&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"Safety goggles are an object used for eye protection."</data>
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </node>
+    <node id="&quot;THERMOMETER&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"A thermometer is an object used to measure temperature."</data>
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </node>
+    <node id="&quot;MIGUEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miguel is the one conducting the experiment, writing sentences in his notebook."</data>
+      <data key="d2">chunk-f8eb5196aea55b5f8698d2eb30350ead</data>
+    </node>
+    <node id="&quot;PLANET&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The text mentions that the object orbits a nearby planet, indicating the planet is significant in the context of the experiment."</data>
+      <data key="d2">chunk-f8eb5196aea55b5f8698d2eb30350ead</data>
+    </node>
+    <node id="&quot;OBSERVATION&quot;">
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+      <data key="d1">"The observation("entity"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ONE YEAR WAS UNUSUALLY DRY&quot;">
+      <data key="d2">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+      <data key="d1">"The observation("entity"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ENERGY CHANGE&quot;">
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+      <data key="d1">"They change energy from one form to another by converting solar energy into chemical energy."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GIANT REDWOOD TREES&quot;">
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+      <data key="d1">"They change energy from one form to another by converting solar energy into chemical energy."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;REUSE&quot;">
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+      <data key="d1">"Using old materials can be reused to conserve future resources."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;USING OLD MATERIALS&quot;">
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+      <data key="d1">"Using old materials can be reused to conserve future resources."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ICE CUBE&quot;">
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+      <data key="d1">"An ice cube changes energy from one form to another by melting and then releasing heat energy."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ALLELE COMBINATIONS&quot;">
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+      <data key="d1">"The allele combination WW only could occur in the zygote if both parents contribute an allele for the dominant WW."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;WW ONLY&quot;">
+      <data key="d2">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+      <data key="d1">"The allele combination WW only could occur in the zygote if both parents contribute an allele for the dominant WW."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;BUTTERFLY&quot;">
+      <data key="d2">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+      <data key="d1">"Metamorphosis is the process by which a butterfly goes through from an egg to a fully developed adult."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ALUMINUM CANS&quot;">
+      <data key="d2">chunk-8182fc2d36e68375b37d2ab5dc7bc2e6</data>
+      <data key="d1">"Steel cans are separated from aluminum cans in a recycling center."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ARTIFACT&quot;">
+      <data key="d2">chunk-8182fc2d36e68375b37d2ab5dc7bc2e6</data>
+      <data key="d1">"Books are considered artifacts that can be read and sometimes washed in a sink."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CHANGE IN WOOD&quot;">
+      <data key="d2">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+      <data key="d1">"A change in the wood indicates a transformation from one state to another."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;EVENT&quot;">
+      <data key="d2">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+      <data key="d1">"A change in the wood indicates a transformation from one state to another."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SOURCE&quot;">
+      <data key="d2">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+      <data key="d1">"The variable source provides the energy to the ball, which is then used for its forward swing."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;LIGHT WOOL SHEEP&quot;">
+      <data key="d2">chunk-a7b122ae6b650ea3a928970a97e21406</data>
+      <data key="d1">"The light wool sheep population is decreasing in number."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;POPULATION&quot;">
+      <data key="d2">chunk-a7b122ae6b650ea3a928970a97e21406</data>
+      <data key="d1">"The light wool sheep population is decreasing in number."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DARK WOOL SHEEP&quot;">
+      <data key="d2">chunk-a7b122ae6b650ea3a928970a97e21406</data>
+      <data key="d1">"The dark wool sheep population is increasing in number."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;BASE&quot;">
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+      <data key="d1">"A base is a material being("entity"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;MATERIAL&quot;">
+      <data key="d2">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+      <data key="d1">"A base is a material being("entity"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CONCLUSION&quot;">
+      <data key="d2">chunk-83decea0937e0d43499d64dda5fc1a14</data>
+      <data key="d1">"The student is likely to make a conclusion after repeating the experiment to ensure reliability."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ORGANIZATION&quot;">
+      <data key="d2">chunk-e5a16879c2227c24607947f81907f26c</data>
+      <data key="d1">"The Sun is an organization that provides energy and light to the solar system."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ELEMENT&quot;">
+      <data key="d2">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+      <data key="d1">"Magnesium is the element indicated as a highly reactive metal in the periodic table question."&lt;SEP&gt;"Magnesium is the element indicated as a reactive metal in the periodic table question."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;OBJECT&quot;">
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+      <data key="d1">"Students measure the ice using the thermometer as an object."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;EXPLORATORY ROBOT&quot;">
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+      <data key="d1">"An exploratory robot is an object used in scientific investigation."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;HUMAN BODY CELL&quot;">
+      <data key="d2">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+      <data key="d1">"A human sex cell is an object within the body."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FOLIAGE&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Foliage reflects heat, contributing to lower variation in rainforest temperatures."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;RAINFOREST TEMPERATURES&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Foliage reflects heat, contributing to lower variation in rainforest temperatures."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ABSORB MOISTURE&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Organisms absorb moisture, which also affects temperature."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ORGANISMS IN THE RAINFOREST&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Organisms absorb moisture, which also affects temperature."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;RAINFOREST&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Solar radiation is less intense in the rainforest, contributing to lower temperatures."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SOLAR RADIATION&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Solar radiation is less intense in the rainforest, contributing to lower temperatures."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CLOUD COVER&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Cloud cover helps retain heat in the rainforest, reducing temperature variation."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;VEGETATION&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Vegetation reflects sunlight, which affects the temperature of the rainforest."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PRECIPITATION&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Precipitation adds water to the soil, which can affect temperature."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;HUMIDITY&quot;">
+      <data key="d2">chunk-4ec98e657995020d837cb0629a9af884</data>
+      <data key="d1">"Humidity is high in the rainforest, which can affect temperature."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;SUN&quot;" target="&quot;ORGANIZATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Sun is an organization that provides energy and light to the solar system."</data>
+      <data key="d5">"energy and light, solar system"</data>
+      <data key="d6">chunk-e5a16879c2227c24607947f81907f26c</data>
+    </edge>
+    <edge source="&quot;WIND&quot;" target="&quot;RAINFOREST&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Wind can cool the rainforest by carrying away heat."</data>
+      <data key="d5">"cooling, temperature"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+    <edge source="&quot;CORRECT ANSWER&quot;" target="&quot;EXPERIMENT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The correct answer is the one that the student should follow after conducting the experiment."</data>
+      <data key="d5">"correct answer, experiment outcome"</data>
+      <data key="d6">chunk-83decea0937e0d43499d64dda5fc1a14</data>
+    </edge>
+    <edge source="&quot;CORRECT ANSWER&quot;" target="&quot;STUDENT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Students use the correct answer to guide their choices regarding tools."</data>
+      <data key="d5">"informed decision-making, educational guidance"</data>
+      <data key="d6">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </edge>
+    <edge source="&quot;SCIENTISTS&quot;" target="&quot;BUILDING&quot;">
+      <data key="d3">17.0</data>
+      <data key="d4">"Scientists are responsible for the experiment and its findings."&lt;SEP&gt;"Scientists are the ones conducting the experiment in the building."</data>
+      <data key="d5">"experimentation, location"&lt;SEP&gt;"researchers, experiment"</data>
+      <data key="d6">chunk-9b00b27370d8767c10bcb82c24a5de42</data>
+    </edge>
+    <edge source="&quot;ALEX&quot;" target="&quot;FIRST CONTACT&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Alex leads the team that might be making the First Contact with the unknown intelligence."</data>
+      <data key="d5">"leadership, exploration"</data>
+      <data key="d6">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </edge>
+    <edge source="&quot;METAMORPHOSIS&quot;" target="&quot;BUTTERFLY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Metamorphosis is the process by which a butterfly goes through from an egg to a fully developed adult."</data>
+      <data key="d5">"process, transformation"</data>
+      <data key="d6">chunk-4c7a7ba619dde3ec29e6cd3b40c2a732</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Sam Rivera is directly involved in the process of learning to communicate with the unknown intelligence."</data>
+      <data key="d5">"communication, learning process"</data>
+      <data key="d6">chunk-0103268e980fbed7a66bb94b1f9abc3b</data>
+    </edge>
+    <edge source="&quot;STEEL CANS&quot;" target="&quot;ALUMINUM CANS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Steel cans are separated from aluminum cans in a recycling center."</data>
+      <data key="d5">"separation process"</data>
+      <data key="d6">chunk-8182fc2d36e68375b37d2ab5dc7bc2e6</data>
+    </edge>
+    <edge source="&quot;BOOK&quot;" target="&quot;ARTIFACT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Books are considered artifacts that can be read and sometimes washed in a sink."</data>
+      <data key="d5">"artifact, washing"</data>
+      <data key="d6">chunk-8182fc2d36e68375b37d2ab5dc7bc2e6</data>
+    </edge>
+    <edge source="&quot;WOOD&quot;" target="&quot;ENERGY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Energy is transformed into physical change within the wood."</data>
+      <data key="d5">"physical transformation, energy conservation"</data>
+      <data key="d6">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </edge>
+    <edge source="&quot;CARBON DIOXIDE&quot;" target="&quot;CLIMATE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"An increase in carbon dioxide levels can lead to global warming, a significant change in climate."</data>
+      <data key="d5">"greenhouse gas, environmental impact"</data>
+      <data key="d6">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </edge>
+    <edge source="&quot;CARBON DIOXIDE&quot;" target="&quot;HYDROSPHERE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Carbon dioxide can be absorbed by the hydrosphere, affecting the Earth's temperature and climate."</data>
+      <data key="d5">"water absorption, environmental impact"</data>
+      <data key="d6">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </edge>
+    <edge source="&quot;2H_{2}O&quot;" target="&quot;2H_{2}&quot;">
+      <data key="d3">34.0</data>
+      <data key="d4">"2H_{2}O can be produced from 2H_{2} and O_{2} through the reaction 2H_{2} + O_{2} -&gt; 2H_{2}O."&lt;SEP&gt;"Water (2H_{2}O) is a product of the reaction 2H_{2} + O_{2} -&gt; 2H_{2}O."</data>
+      <data key="d5">"product, reaction outcome"&lt;SEP&gt;"reaction, compound formation"</data>
+      <data key="d6">chunk-7c3a8ccad7af77337126b70eadaf0234</data>
+    </edge>
+    <edge source="&quot;2H_{2}&quot;" target="&quot;O_{2}&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Oxygen gas (O_{2}) is required for the combustion process that produces water (2H_{2}O)."</data>
+      <data key="d5">"combustion, element requirement"</data>
+      <data key="d6">chunk-7c3a8ccad7af77337126b70eadaf0234</data>
+    </edge>
+    <edge source="&quot;BALL&quot;" target="&quot;ACCELERATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The ball experiences acceleration during its forward swing."</data>
+      <data key="d5">"physical change, velocity change"</data>
+      <data key="d6">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </edge>
+    <edge source="&quot;VARIABLE SOURCE&quot;" target="&quot;SOURCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The variable source provides the energy to the ball, which is then used for its forward swing."</data>
+      <data key="d5">"power source, energy transfer"</data>
+      <data key="d6">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </edge>
+    <edge source="&quot;RESISTOR&quot;" target="&quot;SOURCE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The source of energy is delivered to the ball through a resistor, which may dissipate some of the energy as heat."</data>
+      <data key="d5">"power delivery, energy dissipation"</data>
+      <data key="d6">chunk-3f10bebd5c0f9347eb4035fbf3500b52</data>
+    </edge>
+    <edge source="&quot;STUDENT&quot;" target="&quot;EXPERIMENT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The student is conducting the experiment that involves testing the growth rate of plants under different music conditions."</data>
+      <data key="d5">"performing experiment, data collection"</data>
+      <data key="d6">chunk-83decea0937e0d43499d64dda5fc1a14</data>
+    </edge>
+    <edge source="&quot;STUDENT&quot;" target="&quot;CONCLUSION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student is likely to make a conclusion after repeating the experiment to ensure reliability."</data>
+      <data key="d5">"making conclusions, experiment replication"</data>
+      <data key="d6">chunk-83decea0937e0d43499d64dda5fc1a14</data>
+    </edge>
+    <edge source="&quot;STUDENT&quot;" target="&quot;TOOL&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Students must use a stopwatch, a heat source, safety goggles, and a thermometer as tools."</data>
+      <data key="d5">"use of tools, educational activity"</data>
+      <data key="d6">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </edge>
+    <edge source="&quot;STUDENT&quot;" target="&quot;EVENT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The event of conducting an investigation is part of the students' learning process."</data>
+      <data key="d5">"learning process, investigation"</data>
+      <data key="d6">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </edge>
+    <edge source="&quot;STUDENT&quot;" target="&quot;OBJECT&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Students measure the ice using the thermometer as an object."</data>
+      <data key="d5">"measurement, scientific method"</data>
+      <data key="d6">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </edge>
+    <edge source="&quot;SIDE MIRROR&quot;" target="&quot;USING A FLASHLIGHT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The side mirror is used in conjunction with the flashlight for night navigation."</data>
+      <data key="d5">"functional use, activity association"</data>
+      <data key="d6">chunk-a3d7da65f0c48727d4dd95ffd8b0edc1</data>
+    </edge>
+    <edge source="&quot;MOON&quot;" target="&quot;ORGANIZATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Moon is an organization that reflects sunlight and influences tides."</data>
+      <data key="d5">"light, tides"</data>
+      <data key="d6">chunk-e5a16879c2227c24607947f81907f26c</data>
+    </edge>
+    <edge source="&quot;CHLORINE&quot;" target="&quot;ELEMENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Chlorine is the element indicated as a highly reactive metal in the periodic table question."</data>
+      <data key="d5">"element, correct answer"</data>
+      <data key="d6">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </edge>
+    <edge source="&quot;HELIUM&quot;" target="&quot;ELEMENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Helium is the element indicated as a noble gas in the periodic table question."</data>
+      <data key="d5">"element, correct answer"</data>
+      <data key="d6">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </edge>
+    <edge source="&quot;MAGNESIUM&quot;" target="&quot;ELEMENT&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Magnesium is the element indicated as a highly reactive metal in the periodic table question."&lt;SEP&gt;"Magnesium is the element indicated as a reactive metal in the periodic table question."</data>
+      <data key="d5">"element, correct answer"</data>
+      <data key="d6">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </edge>
+    <edge source="&quot;SILVER&quot;" target="&quot;ELEMENT&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Silver is the element indicated as a highly reactive metal in the periodic table question."&lt;SEP&gt;"Silver is the element indicated as a reactive metal in the periodic table question."</data>
+      <data key="d5">"element, correct answer"</data>
+      <data key="d6">chunk-7338d66acef81b1bc0a1e4c9245990c5</data>
+    </edge>
+    <edge source="&quot;BUILDING&quot;" target="&quot;BUILDING&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The building is the location where the experiment is taking place."</data>
+      <data key="d5">"environmental study, site"</data>
+      <data key="d6">chunk-9b00b27370d8767c10bcb82c24a5de42</data>
+    </edge>
+    <edge source="&quot;BUILDING&quot;" target="&quot;EXPERIMENTERS&quot;">
+      <data key="d3">17.0</data>
+      <data key="d4">"Experimenters are responsible for the experiment and its findings."&lt;SEP&gt;"Experimenters are the ones conducting the experiment in the building."</data>
+      <data key="d5">"experimentation, location"&lt;SEP&gt;"researchers, experiment"</data>
+      <data key="d6">chunk-9b00b27370d8767c10bcb82c24a5de42</data>
+    </edge>
+    <edge source="&quot;OBSERVATION&quot;" target="&quot;ONE YEAR WAS UNUSUALLY DRY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The observation("entity"</data>
+      <data key="d5">"Question 56"</data>
+      <data key="d6">chunk-734afa1a5edaa28a2737d9cca48faf65</data>
+    </edge>
+    <edge source="&quot;ENERGY CHANGE&quot;" target="&quot;GIANT REDWOOD TREES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"They change energy from one form to another by converting solar energy into chemical energy."</data>
+      <data key="d5">"physical change, energy conversion"</data>
+      <data key="d6">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </edge>
+    <edge source="&quot;ENERGY CHANGE&quot;" target="&quot;ICE CUBE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"An ice cube changes energy from one form to another by melting and then releasing heat energy."</data>
+      <data key="d5">"physical change, energy conversion"</data>
+      <data key="d6">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </edge>
+    <edge source="&quot;REUSE&quot;" target="&quot;USING OLD MATERIALS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Using old materials can be reused to conserve future resources."</data>
+      <data key="d5">"sustainability, conservation"</data>
+      <data key="d6">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </edge>
+    <edge source="&quot;ALLELE COMBINATIONS&quot;" target="&quot;WW ONLY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The allele combination WW only could occur in the zygote if both parents contribute an allele for the dominant WW."</data>
+      <data key="d5">"genetic inheritance, allele combinations"</data>
+      <data key="d6">chunk-80a6800c9317e014b62ce1d31ad4a2b9</data>
+    </edge>
+    <edge source="&quot;CHANGE IN WOOD&quot;" target="&quot;EVENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"A change in the wood indicates a transformation from one state to another."</data>
+      <data key="d5">"material transformation, physical change"</data>
+      <data key="d6">chunk-bcaec0ca9677aa2aa7f6f224cc0287f6</data>
+    </edge>
+    <edge source="&quot;LIGHT WOOL SHEEP&quot;" target="&quot;POPULATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The light wool sheep population is decreasing in number."</data>
+      <data key="d5">"population change, dark wool sheep"</data>
+      <data key="d6">chunk-a7b122ae6b650ea3a928970a97e21406</data>
+    </edge>
+    <edge source="&quot;POPULATION&quot;" target="&quot;DARK WOOL SHEEP&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The dark wool sheep population is increasing in number."</data>
+      <data key="d5">"population change, dark wool sheep"</data>
+      <data key="d6">chunk-a7b122ae6b650ea3a928970a97e21406</data>
+    </edge>
+    <edge source="&quot;BASE&quot;" target="&quot;MATERIAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A base is a material being("entity"</data>
+      <data key="d5">"question"</data>
+      <data key="d6">chunk-ca47ef2f2d598755733b8ef6d265e42d</data>
+    </edge>
+    <edge source="&quot;OBJECT&quot;" target="&quot;EXPLORATORY ROBOT&quot;">
+      <data key="d3">11.0</data>
+      <data key="d4">"An exploratory robot is an object used in scientific investigation."</data>
+      <data key="d5">"investigation, robot use"</data>
+      <data key="d6">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </edge>
+    <edge source="&quot;OBJECT&quot;" target="&quot;HUMAN BODY CELL&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"A human sex cell is an object within the body."</data>
+      <data key="d5">"bi("entity"</data>
+      <data key="d6">chunk-1932a1920bb467acf6df8072e461eb4c</data>
+    </edge>
+    <edge source="&quot;FOLIAGE&quot;" target="&quot;RAINFOREST TEMPERATURES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Foliage reflects heat, contributing to lower variation in rainforest temperatures."</data>
+      <data key="d5">"reflection, heat variation"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+    <edge source="&quot;ABSORB MOISTURE&quot;" target="&quot;ORGANISMS IN THE RAINFOREST&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Organisms absorb moisture, which also affects temperature."</data>
+      <data key="d5">"absorption, temperature"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+    <edge source="&quot;RAINFOREST&quot;" target="&quot;SOLAR RADIATION&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Solar radiation is less intense in the rainforest, contributing to lower temperatures."</data>
+      <data key="d5">"intensity, temperature"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+    <edge source="&quot;RAINFOREST&quot;" target="&quot;CLOUD COVER&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Cloud cover helps retain heat in the rainforest, reducing temperature variation."</data>
+      <data key="d5">"retention, temperature"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+    <edge source="&quot;RAINFOREST&quot;" target="&quot;VEGETATION&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Vegetation reflects sunlight, which affects the temperature of the rainforest."</data>
+      <data key="d5">"reflection, temperature"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+    <edge source="&quot;RAINFOREST&quot;" target="&quot;PRECIPITATION&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Precipitation adds water to the soil, which can affect temperature."</data>
+      <data key="d5">"addition, temperature"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+    <edge source="&quot;RAINFOREST&quot;" target="&quot;HUMIDITY&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"Humidity is high in the rainforest, which can affect temperature."</data>
+      <data key="d5">"high, temperature"</data>
+      <data key="d6">chunk-4ec98e657995020d837cb0629a9af884</data>
+    </edge>
+  </graph>
+</graphml>

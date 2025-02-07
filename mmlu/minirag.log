@@ -1,0 +1,40 @@
+2025-02-05 15:10:27,522 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-05 15:10:27,522 - minirag - INFO - Load KV llm_response_cache with 0 data
+2025-02-05 15:10:27,522 - minirag - INFO - Load KV full_docs with 0 data
+2025-02-05 15:10:27,522 - minirag - INFO - Load KV text_chunks with 0 data
+2025-02-05 15:10:28,494 - minirag - INFO - [New Docs] inserting 1 docs
+2025-02-05 15:10:52,752 - minirag - INFO - [New Chunks] inserting 31740 chunks
+2025-02-05 15:10:52,752 - minirag - INFO - Inserting 31740 vectors to chunks
+2025-02-05 15:20:50,570 - minirag - INFO - [Entity Extraction]...
+2025-02-05 15:36:45,677 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-05 15:36:45,677 - minirag - INFO - Load KV llm_response_cache with 0 data
+2025-02-05 15:36:45,677 - minirag - INFO - Load KV full_docs with 0 data
+2025-02-05 15:36:45,678 - minirag - INFO - Load KV text_chunks with 0 data
+2025-02-05 15:36:45,686 - minirag - INFO - [New Docs] inserting 1 docs
+2025-02-05 15:36:46,146 - minirag - INFO - [New Chunks] inserting 320 chunks
+2025-02-05 15:36:46,146 - minirag - INFO - Inserting 320 vectors to chunks
+2025-02-05 15:36:53,249 - minirag - INFO - [Entity Extraction]...
+2025-02-05 18:15:23,493 - minirag - INFO - Inserting 1078 vectors to entities
+2025-02-05 18:16:11,739 - minirag - INFO - Inserting 1078 vectors to entities_name
+2025-02-05 18:16:31,724 - minirag - INFO - Inserting 495 vectors to relationships
+2025-02-05 18:16:40,778 - minirag - INFO - Writing graph with 1414 nodes, 495 edges
+2025-02-05 18:27:21,128 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-05 18:27:21,132 - minirag - INFO - Load KV llm_response_cache with 640 data
+2025-02-05 18:27:21,139 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-05 18:27:21,145 - minirag - INFO - Load KV text_chunks with 320 data
+2025-02-05 18:27:21,164 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges
+2025-02-05 18:34:52,752 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-05 18:34:52,756 - minirag - INFO - Load KV llm_response_cache with 642 data
+2025-02-05 18:34:52,763 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-05 18:34:52,768 - minirag - INFO - Load KV text_chunks with 320 data
+2025-02-05 18:34:52,787 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges
+2025-02-05 18:36:57,413 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-05 18:36:57,417 - minirag - INFO - Load KV llm_response_cache with 650 data
+2025-02-05 18:36:57,424 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-05 18:36:57,429 - minirag - INFO - Load KV text_chunks with 320 data
+2025-02-05 18:36:57,449 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges
+2025-02-05 18:37:53,252 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-05 18:37:53,256 - minirag - INFO - Load KV llm_response_cache with 652 data
+2025-02-05 18:37:53,263 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-05 18:37:53,269 - minirag - INFO - Load KV text_chunks with 320 data
+2025-02-05 18:37:53,288 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges

@@ -1,0 +1,31 @@
+2025-02-05 15:23:41,644 - minirag - INFO - Logger initialized for working directory: ./medmcqa
+2025-02-05 15:23:41,644 - minirag - INFO - Load KV llm_response_cache with 0 data
+2025-02-05 15:23:41,645 - minirag - INFO - Load KV full_docs with 0 data
+2025-02-05 15:23:41,645 - minirag - INFO - Load KV text_chunks with 0 data
+2025-02-05 15:23:42,326 - minirag - INFO - [New Docs] inserting 1 docs
+2025-02-05 15:24:00,971 - minirag - INFO - [New Chunks] inserting 24423 chunks
+2025-02-05 15:24:00,972 - minirag - INFO - Inserting 24423 vectors to chunks
+2025-02-05 15:27:46,253 - minirag - INFO - Logger initialized for working directory: ./medmcqa
+2025-02-05 15:27:46,253 - minirag - INFO - Load KV llm_response_cache with 0 data
+2025-02-05 15:27:46,253 - minirag - INFO - Load KV full_docs with 0 data
+2025-02-05 15:27:46,253 - minirag - INFO - Load KV text_chunks with 0 data
+2025-02-05 15:27:46,343 - minirag - INFO - [New Docs] inserting 1 docs
+2025-02-05 15:27:48,931 - minirag - INFO - [New Chunks] inserting 3192 chunks
+2025-02-05 15:27:48,931 - minirag - INFO - Inserting 3192 vectors to chunks
+2025-02-05 15:31:14,693 - minirag - INFO - Logger initialized for working directory: ./medmcqa
+2025-02-05 15:31:14,693 - minirag - INFO - Load KV llm_response_cache with 0 data
+2025-02-05 15:31:14,693 - minirag - INFO - Load KV full_docs with 0 data
+2025-02-05 15:31:14,694 - minirag - INFO - Load KV text_chunks with 0 data
+2025-02-05 15:31:14,701 - minirag - INFO - [New Docs] inserting 1 docs
+2025-02-05 15:31:15,144 - minirag - INFO - [New Chunks] inserting 313 chunks
+2025-02-05 15:31:15,145 - minirag - INFO - Inserting 313 vectors to chunks
+2025-02-05 15:31:21,660 - minirag - INFO - [Entity Extraction]...
+2025-02-05 18:52:17,885 - minirag - INFO - Inserting 344 vectors to entities
+2025-02-05 18:52:23,505 - minirag - INFO - Inserting 344 vectors to entities_name
+2025-02-05 18:52:29,600 - minirag - INFO - Inserting 172 vectors to relationships
+2025-02-05 18:52:32,789 - minirag - INFO - Writing graph with 508 nodes, 172 edges
+2025-02-05 18:52:56,511 - minirag - INFO - Logger initialized for working directory: ./medmcqa
+2025-02-05 18:52:56,517 - minirag - INFO - Load KV llm_response_cache with 626 data
+2025-02-05 18:52:56,521 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-05 18:52:56,526 - minirag - INFO - Load KV text_chunks with 313 data
+2025-02-05 18:52:56,534 - minirag - INFO - Loaded graph from ./medmcqa/graph_chunk_entity_relation.graphml with 508 nodes, 172 edges

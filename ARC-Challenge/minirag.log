@@ -1,0 +1,32 @@
+2025-02-05 15:15:18,701 - minirag - INFO - Logger initialized for working directory: ./ARC-Challenge
+2025-02-05 15:15:18,701 - minirag - INFO - Load KV llm_response_cache with 0 data
+2025-02-05 15:15:18,701 - minirag - INFO - Load KV full_docs with 0 data
+2025-02-05 15:15:18,701 - minirag - INFO - Load KV text_chunks with 0 data
+2025-02-05 15:15:18,704 - minirag - INFO - [New Docs] inserting 1 docs
+2025-02-05 15:15:18,969 - minirag - INFO - [New Chunks] inserting 65 chunks
+2025-02-05 15:15:18,969 - minirag - INFO - Inserting 65 vectors to chunks
+2025-02-05 15:15:21,260 - minirag - INFO - [Entity Extraction]...
+2025-02-05 15:49:36,438 - minirag - INFO - Inserting 197 vectors to entities
+2025-02-05 15:49:39,931 - minirag - INFO - Inserting 197 vectors to entities_name
+2025-02-05 15:49:43,461 - minirag - INFO - Inserting 49 vectors to relationships
+2025-02-05 15:49:44,551 - minirag - INFO - Writing graph with 233 nodes, 49 edges
+2025-02-05 17:47:42,686 - minirag - INFO - Logger initialized for working directory: ./ARC-Challenge
+2025-02-05 17:47:42,687 - minirag - INFO - Load KV llm_response_cache with 130 data
+2025-02-05 17:47:42,689 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-05 17:47:42,690 - minirag - INFO - Load KV text_chunks with 65 data
+2025-02-05 17:47:42,694 - minirag - INFO - Loaded graph from ./ARC-Challenge/graph_chunk_entity_relation.graphml with 233 nodes, 49 edges
+2025-02-07 16:51:03,492 - minirag - INFO - Logger initialized for working directory: ./ARC-Challenge
+2025-02-07 16:51:03,505 - minirag - INFO - Load KV llm_response_cache with 2452 data
+2025-02-07 16:51:03,506 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-07 16:51:03,508 - minirag - INFO - Load KV text_chunks with 65 data
+2025-02-07 16:51:03,511 - minirag - INFO - Loaded graph from ./ARC-Challenge/graph_chunk_entity_relation.graphml with 233 nodes, 49 edges
+2025-02-07 16:52:03,465 - minirag - INFO - Logger initialized for working directory: ./ARC-Challenge
+2025-02-07 16:52:03,479 - minirag - INFO - Load KV llm_response_cache with 2452 data
+2025-02-07 16:52:03,480 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-07 16:52:03,481 - minirag - INFO - Load KV text_chunks with 65 data
+2025-02-07 16:52:03,484 - minirag - INFO - Loaded graph from ./ARC-Challenge/graph_chunk_entity_relation.graphml with 233 nodes, 49 edges
+2025-02-07 16:52:31,585 - minirag - INFO - Logger initialized for working directory: ./ARC-Challenge
+2025-02-07 16:52:31,598 - minirag - INFO - Load KV llm_response_cache with 2452 data
+2025-02-07 16:52:31,599 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-07 16:52:31,600 - minirag - INFO - Load KV text_chunks with 65 data
+2025-02-07 16:52:31,604 - minirag - INFO - Loaded graph from ./ARC-Challenge/graph_chunk_entity_relation.graphml with 233 nodes, 49 edges
