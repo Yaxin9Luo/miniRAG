@@ -38,3 +38,18 @@
 2025-02-05 18:37:53,263 - minirag - INFO - Load KV full_docs with 1 data
 2025-02-05 18:37:53,269 - minirag - INFO - Load KV text_chunks with 320 data
 2025-02-05 18:37:53,288 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges
+2025-02-07 20:40:33,011 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-07 20:40:33,044 - minirag - INFO - Load KV llm_response_cache with 7976 data
+2025-02-07 20:40:33,051 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-07 20:40:33,054 - minirag - INFO - Load KV text_chunks with 320 data
+2025-02-07 20:40:33,072 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges
+2025-02-08 12:23:37,289 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-08 12:23:37,348 - minirag - INFO - Load KV llm_response_cache with 15164 data
+2025-02-08 12:23:37,355 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-08 12:23:37,359 - minirag - INFO - Load KV text_chunks with 320 data
+2025-02-08 12:23:37,376 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges
+2025-02-08 19:28:25,619 - minirag - INFO - Logger initialized for working directory: ./mmlu
+2025-02-08 19:28:25,694 - minirag - INFO - Load KV llm_response_cache with 18695 data
+2025-02-08 19:28:25,701 - minirag - INFO - Load KV full_docs with 1 data
+2025-02-08 19:28:25,705 - minirag - INFO - Load KV text_chunks with 320 data
+2025-02-08 19:28:25,721 - minirag - INFO - Loaded graph from ./mmlu/graph_chunk_entity_relation.graphml with 1414 nodes, 495 edges

@@ -73,7 +73,7 @@ def calculate_accuracy(csv_file):
 
 def main():
     # Set logs directory path
-    logs_dir = "../logs"
+    logs_dir = "./logs"
     
     # Calculate accuracy for all datasets
     datasets = ['medmcqa', 'mmlu', 'arc']

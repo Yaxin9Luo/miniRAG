@@ -40,6 +40,10 @@ elif args.model == 'MiniCPM':
     LLM_MODEL = "openbmb/MiniCPM3-4B"
 elif args.model == 'qwen':
     LLM_MODEL = "Qwen/Qwen2.5-3B-Instruct"
+elif args.model == 'gemma':
+    LLM_MODEL = "google/gemma-2-2b-it"
+elif args.model == 'llama':
+    LLM_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 else:
     print("Invalid model name")
     exit(1)
